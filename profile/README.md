@@ -1,4 +1,4 @@
-## Output Websites
+# Output Websites
 
 **[OutputWebsites.com](https://OutputWebsites.com "Visit OutputWebsites.com") **|** **Email:** [Contact@OutputWebsites.com](mailto:Contact@OutputWebsites.com "Email Output Websites at Contact@OutputWebsites.com")**
 
@@ -10,6 +10,6 @@ To make sure every user has a great experience, our websites are accessible and 
 
 ---
 
-### Links
+## Links
 - **Website:** [OutputWebsites.com](https://OutputWebsites.com "Visit OutputWebsites.com")
 - **GitHub:** [github.com/outputwebsites](https://github.com/outputwebsites "Visit the GitHub of Output Websites at github.com/outputwebsites")
